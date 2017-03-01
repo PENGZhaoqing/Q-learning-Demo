@@ -4,22 +4,23 @@ Here is a java program aiming to give the RL beginners a better understanding of
 
 **If you are new to Reinforcement Learning, here is what you want for Q-learning !!!** 
 
-## Demo
-
-### Scenario
+## Scenario
 
 The goal is to train the agent to find path to the destination
 
 * Red square represents the agent
 * Black square represents the rival, agent will get -100 punishment after falling into rivers
 * Grey square represents the wall, agent cannot go through the wall
-* Blue square represents the goal destination that agent should arrive, agent will get 300 reward while arriving 
+* Blue square represents the goal destination that agent should arrive, agent will get 300 reward while arriving
+
+
+## Demo
 
 1. Option: Show Q tables 
 
   <img src="/snap/snap-1.png">
 
-  you can visualize the four action values (up, down, left and right) in each square box
+  You can visualize the four action values (up, down, left and right) in each square box
 
 2. Option:Show routes
 
